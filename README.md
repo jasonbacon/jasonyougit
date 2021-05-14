@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jasonyougit
-- 👷 I work at Flamelink.io as the Developer Realtions, Marketing & Growth Lead
 - 👀 I’m interested in Firebase, Flamelink the Firebase CMS, and anything that plays well with the two.
 - 🌱 I’m currently learning Product Management & Marketing
 - 💞️ I’m looking to collaborate on any project built on Firebase that might require a CMS
